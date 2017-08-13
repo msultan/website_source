@@ -2,3 +2,7 @@
 	path = themes/academic
 	url = git@github.com:msultan/hugo-academic
 	branch = master
+[submodule "themes/academic"]
+	path = public
+	url = git@github.com:msultan/msultan.github.io.git
+	branch = master
