@@ -12,7 +12,7 @@ summary = "Faster sampling via Markov decision processes(MDP) and Reinforcement-
 image_preview = "rl.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
-image = ""
+image = "tica_meta.gif"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -32,4 +32,7 @@ information from the current MSM. The new simulation could be a new sequence, a 
 some post translational modification. To that end, I am borrowing ideas from Reinforcement-Learning and Markov decision
 processes.
 
-Image was borrowed from [here](http://miromannino.com/artificial-intelligence-markov-decision-process/)
+Recently, I showed over [a](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00182) [series](http://www.biorxiv.org/content/early/2017/07/02/158592)
+ of papers that the [tICA](http://msmbuilder.org/3.8.0/decomposition.html#tica) algorithm can be used to
+form better CV than human intuition in enhanced sampling algorithms such as Metadynamics/Umbrella sampling.
+

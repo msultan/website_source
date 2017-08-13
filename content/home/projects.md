@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Projects"
-subtitle = "A few of my current & past projects"
+subtitle = "A few of my current & past projects. For a full list, visit my Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=kiEV6acAAAAJ&view_op=list_works)"
 widget = "projects"
 
 # Order that this section will appear in.
