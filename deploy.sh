@@ -8,6 +8,8 @@ hugo -t academic # if using a theme, replace by `hugo -t <yourtheme>`
 # Go To Public folder
 cd public
 # Add changes to git.
+cp -r * ../../msultan.github.io/
+cd ../../msultan.github.io/
 git add -A
 
 # Commit changes.
@@ -22,4 +24,4 @@ if [ $# -eq 1 ]
 	  git push origin master
 
 	  # Come Back
-	  cd ..
+	  cd ../website_source/

@@ -34,5 +34,4 @@ processes.
 
 Recently, I showed over [a](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00182) [series](http://www.biorxiv.org/content/early/2017/07/02/158592)
  of papers that the [tICA](http://msmbuilder.org/3.8.0/decomposition.html#tica) algorithm can be used to
-form better CV than human intuition in enhanced sampling algorithms such as Metadynamics/Umbrella sampling.
-
+form better CV than human intuition in enhanced sampling algorithms such as Metadynamics/Umbrella sampling. This is
