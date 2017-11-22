@@ -47,7 +47,7 @@ informatics, and machine learning. I am further interested in extending the capa
 information from Markov models.
 
 In my free time, I like to cook, hike, play squash, dabble in tennis, and do some light power lifting.
-My current lifting best is a 470lbs squat, 520lbs deadlift, and 275lbs bench which equals to a
-[Wilks coefficient](https://en.wikipedia.org/wiki/Wilks_Coefficient) of 349.50.
+My current lifting best is a 480lbs squat, 520lbs deadlift, and 290lbs bench which equals to a
+[Wilks coefficient](https://en.wikipedia.org/wiki/Wilks_Coefficient) of 348.
 
 
